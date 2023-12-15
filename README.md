@@ -11,7 +11,9 @@
 ## IA en général
 
 Cette section explore différents aspects de l'IA dans des domaines variés.
+
 <details>
+  
 ### Les régulateurs américains ajoutent l'intelligence artificielle aux risques potentiels pour le système financier
 [Article](https://www.boursorama.com/actualite-economique/actualites/les-regulateurs-americains-ajoutent-l-intelligence-artificielle-aux-risques-potentiels-pour-le-systeme-financier-b6c8a6e0db4ffbf58c2213d29dd630aa)
 
