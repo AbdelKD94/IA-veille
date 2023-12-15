@@ -11,7 +11,7 @@
 ## IA en général
 
 Cette section explore différents aspects de l'IA dans des domaines variés.
-
+<details>
 ### Les régulateurs américains ajoutent l'intelligence artificielle aux risques potentiels pour le système financier
 [Article](https://www.boursorama.com/actualite-economique/actualites/les-regulateurs-americains-ajoutent-l-intelligence-artificielle-aux-risques-potentiels-pour-le-systeme-financier-b6c8a6e0db4ffbf58c2213d29dd630aa)
 
@@ -41,13 +41,13 @@ Résumé : L'article explore GEMINI, le modèle multimodal de Google qui aliment
 [Article](https://www.presse-citron.net/ces-metiers-sont-les-plus-susceptibles-detre-remplaces-par-lintelligence-artificielle/)
 
 Résumé : Cet article identifie les métiers les plus à risque d'être remplacés par l'intelligence artificielle.
-
+</details>
 ---
 
 ## IA en France
 
 Cette section se concentre sur les initiatives et les avancées de l'IA en France.
-
+<details>
 ### La stratégie nationale pour l’intelligence artificielle
 [Article](https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle)
 
@@ -67,9 +67,13 @@ Résumé : Cet article discute de la création d'un comité de l'intelligence ar
 [Article](https://www.silicon.fr/intelligence-artificielle-six-pepites-made-in-france-422157.html)
 
 Résumé : L'article met en lumière six entreprises françaises innovantes dans le domaine de l'intelligence artificielle.
-
+</details>
 ---
 
 ## IA en cybersécurité
 
 (Cette section sera à compléter avec des articles pertinents sur l'IA en cybersécurité)
+<details>
+
+
+</details>
