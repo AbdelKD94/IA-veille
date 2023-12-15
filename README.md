@@ -65,5 +65,5 @@ L'article aborde la volonté d'Emmanuel Macron de faire progresser la France dan
 ---
 
 ## IA en cybersécurité
-
-(Cette section sera à compléter avec des articles pertinents sur l'IA en cybersécurité)
+<summary><strong>L’Intelligence Artificielle (IA) est-elle sur le point de révolutionner la Cybersecurité ?</strong></summary>
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F0750647w.index-education.net%2Fpronote%2FFichiersExternes%2Fd3a8e0339e46d1436e787b713b3f446df54d88e23c0ad18ef63e82edc1ef3a876ab2978b24aabd5c8824fed8cecefe3825e486c9a49ab8d80114d53ffd182b4a34b6c669dd9c295dedce3afb24ac210f%2FIA%2520revolution%2520cybersecurite.docx%3FSession%3D428852&wdOrigin=BROWSELINK
