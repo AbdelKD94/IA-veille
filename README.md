@@ -19,7 +19,7 @@ Cette section explore différents aspects de l'IA dans des domaines variés.
 
 <summary><strong>Résumé</strong></summary>
 
-Cet article met en lumière la prise de conscience des régulateurs américains sur les risques potentiels de l'intelligence artificielle pour le système financier.
+Le Conseil de surveillance de la stabilité financière américain a mis en garde contre les risques potentiels de l'intelligence artificielle (IA) dans le système financier. Bien que l'IA puisse stimuler l'innovation et l'efficacité des entreprises financières, sa rapide évolution nécessite une supervision rigoureuse pour éviter les risques, notamment en matière de cybersécurité, de modèle financier, et de protection des données. Les outils d'IA complexes et basés sur des données externes peuvent poser des défis en termes de transparence et de contrôle. Les régulateurs examinent de près l'utilisation de l'IA par les entreprises, et des mesures sont prises pour atténuer ces risques, soulignant également la nécessité de surveiller les dépôts bancaires non assurés.
 </details>
 
 <details>
