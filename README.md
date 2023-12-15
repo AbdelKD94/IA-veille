@@ -7,7 +7,7 @@
 3. [IA en cybersécurité](#ia-en-cybersecurite)
 
 ---
-
+<details/>
 ## IA en général
 
 Cette section explore différents aspects de l'IA dans des domaines variés.
@@ -41,8 +41,9 @@ Résumé : L'article explore GEMINI, le modèle multimodal de Google qui aliment
 [Article](https://www.presse-citron.net/ces-metiers-sont-les-plus-susceptibles-detre-remplaces-par-lintelligence-artificielle/)
 
 Résumé : Cet article identifie les métiers les plus à risque d'être remplacés par l'intelligence artificielle.
-
+</details>
 ---
+<details>
 
 ## IA en France
 
@@ -67,9 +68,11 @@ Résumé : Cet article discute de la création d'un comité de l'intelligence ar
 [Article](https://www.silicon.fr/intelligence-artificielle-six-pepites-made-in-france-422157.html)
 
 Résumé : L'article met en lumière six entreprises françaises innovantes dans le domaine de l'intelligence artificielle.
-
+</details>
 ---
-
+<details>
 ## IA en cybersécurité
 
 (Cette section sera à compléter avec des articles pertinents sur l'IA en cybersécurité)
+
+</details>
