@@ -128,9 +128,8 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F0750647w.index-e
     - *Description:* Leader mondial du marketing à la performance, utilise l’IA pour personnaliser les publicités en ligne.
    
 
-### Prochains Événements IA
 
-1. **Global Industrie 2023**
+
 
   ### Prochains Événements sur l'IA en France
 
