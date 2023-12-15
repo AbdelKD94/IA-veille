@@ -45,7 +45,15 @@ Cette section se concentre sur les initiatives et les avancées de l'IA en Franc
 
 [Article](https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle)
 
-<summary><strong>Résumé</strong></summary>
+<summary><strong>La stratégie nationale pour l'intelligence artificielle en France a été lancée en 2018 et se déploie en deux phases jusqu'en 2025. Cette initiative vise à positionner la France en tant que leader mondial dans le domaine de l'IA. La première phase, de 2018 à 2022, a concentré ses efforts sur le renforcement des capacités de recherche, soutenant la création d'instituts, de chaires d'excellence et d'investissements dans les infrastructures de calcul.
+
+Cette première phase a abouti à des résultats significatifs, avec un grand nombre de laboratoires et de startups spécialisées en IA en France, générant des emplois directs et indirects. La seconde phase, lancée en 2021, se concentre sur la formation de talents et l'accélération du potentiel de recherche et développement. Avec un budget total de 2,22 milliards d'euros sur cinq ans, cette phase vise à diffuser l'IA dans l'économie et à soutenir des domaines prioritaires tels que l'IA embarquée, l'IA de confiance, l'IA au service de la transition écologique, ainsi que l'IA générative et les modèles de langage géants.
+
+
+
+
+
+</strong></summary>
 
 Cet article présente la stratégie nationale pour l'intelligence artificielle en France.
 </details>
