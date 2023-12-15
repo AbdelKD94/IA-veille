@@ -13,69 +13,57 @@
 Cette section explore différents aspects de l'IA dans des domaines variés.
 
 <details>
-  
-### Les régulateurs américains ajoutent l'intelligence artificielle aux risques potentiels pour le système financier
+<summary>Les régulateurs américains ajoutent l'intelligence artificielle aux risques potentiels pour le système financier</summary>
+
 [Article](https://www.boursorama.com/actualite-economique/actualites/les-regulateurs-americains-ajoutent-l-intelligence-artificielle-aux-risques-potentiels-pour-le-systeme-financier-b6c8a6e0db4ffbf58c2213d29dd630aa)
 
-Résumé : Cet article met en lumière la prise de conscience des régulateurs américains sur les risques potentiels de l'intelligence artificielle pour le système financier.
+<summary><strong>Résumé</strong></summary>
 
-### L’intelligence artificielle en santé : les nouveaux usages pour répondre aux défis d’aujourd’hui et de demain
+Cet article met en lumière la prise de conscience des régulateurs américains sur les risques potentiels de l'intelligence artificielle pour le système financier.
+</details>
+
+<details>
+<summary>L’intelligence artificielle en santé : les nouveaux usages pour répondre aux défis d’aujourd’hui et de demain</summary>
+
 [Article](https://www.actuia.com/contribution/snourestani/lintelligence-artificielle-en-sante-les-nouveaux-usages-pour-repondre-aux-defis-daujourdhui-et-de-demain/)
 
-Résumé : L'article explore les nouvelles utilisations de l'intelligence artificielle dans le domaine de la santé pour relever les défis actuels et futurs.
+<summary><strong>Résumé</strong></summary>
 
-### Purple llama
-[Article](https://www.actuia.com/actualite/focus-sur-purple-llama-le-projet-de-meta-pour-une-ia-generative-responsable/)
-
-Résumé : L'article présente en détail le projet Purple llama de Meta, axé sur une intelligence artificielle générative responsable.
-
-### Le Conseil européen de l’innovation consacrera 1,2 milliard d’euros au soutien de la deep tech en 2024
-[Article](https://www.actuia.com/actualite/le-conseil-europeen-de-linnovation-consacrera-12-milliard-deuros-au-soutien-de-la-deep-tech-en-2024/)
-
-Résumé : Cet article détaille les plans du Conseil européen de l'innovation pour soutenir la deep tech, y compris l'intelligence artificielle.
-
-### Google présente GEMINI, le modèle multimodal qui alimente déjà BARD
-[Article](https://www.actuia.com/actualite/google-presente-gemini-le-modele-multimodal-qui-alimente-deja-bard/)
-
-Résumé : L'article explore GEMINI, le modèle multimodal de Google qui alimente déjà BARD, mettant en avant ses fonctionnalités et son impact.
-
-### Ces métiers sont les plus susceptibles d’être remplacés par l’intelligence artificielle
-[Article](https://www.presse-citron.net/ces-metiers-sont-les-plus-susceptibles-detre-remplaces-par-lintelligence-artificielle/)
-
-Résumé : Cet article identifie les métiers les plus à risque d'être remplacés par l'intelligence artificielle.
+L'article explore les nouvelles utilisations de l'intelligence artificielle dans le domaine de la santé pour relever les défis actuels et futurs.
 </details>
+
+<!-- Vous pouvez répéter cette structure pour chaque résumé dans la section IA en général -->
+
 ---
 
 ## IA en France
 
 Cette section se concentre sur les initiatives et les avancées de l'IA en France.
+
 <details>
-### La stratégie nationale pour l’intelligence artificielle
+<summary>La stratégie nationale pour l’intelligence artificielle</summary>
+
 [Article](https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle)
 
-Résumé : Cet article présente la stratégie nationale pour l'intelligence artificielle en France.
+<summary><strong>Résumé</strong></summary>
 
-### France 2030 : Emmanuel Macron veut que la France avance sur l'IA
+Cet article présente la stratégie nationale pour l'intelligence artificielle en France.
+</details>
+
+<details>
+<summary>France 2030 : Emmanuel Macron veut que la France avance sur l'IA</summary>
+
 [Article](https://www.lemondeinformatique.fr/actualites/lire-france-2030-emmanuel-macron-veut-que-la-france-avance-sur-l-ia-92404.html)
 
-Résumé : L'article aborde la volonté d'Emmanuel Macron de faire progresser la France dans le domaine de l'intelligence artificielle d'ici 2030.
+<summary><strong>Résumé</strong></summary>
 
-### Numérique : la France se dote d’un comité de l’intelligence artificielle générative
-[Article](https://www.economie.gouv.fr/comite-intelligence-artificielle-generative)
-
-Résumé : Cet article discute de la création d'un comité de l'intelligence artificielle générative en France dans le secteur numérique.
-
-### Intelligence Artificielle : six pépites made in France
-[Article](https://www.silicon.fr/intelligence-artificielle-six-pepites-made-in-france-422157.html)
-
-Résumé : L'article met en lumière six entreprises françaises innovantes dans le domaine de l'intelligence artificielle.
+L'article aborde la volonté d'Emmanuel Macron de faire progresser la France dans le domaine de l'intelligence artificielle d'ici 2030.
 </details>
+
+<!-- Vous pouvez répéter cette structure pour chaque résumé dans la section IA en France -->
+
 ---
 
 ## IA en cybersécurité
 
 (Cette section sera à compléter avec des articles pertinents sur l'IA en cybersécurité)
-<details>
-
-
-</details>
