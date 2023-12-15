@@ -132,19 +132,11 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F0750647w.index-e
 
 1. **Global Industrie 2023**
 
-    - *Description:* Salon rassemblant les acteurs de l’industrie du futur, mettant l'accent sur l’IA et ses applications. Il se déroulera du 7 au 10 mars 2023 à Paris Nord Villepinte. Le Village IA, espace dédié aux startups, laboratoires et projets innovants en IA, sera à découvrir.
+  ### Prochains Événements sur l'IA en France
 
-2. **Sommet sur l’IA Générative pour le Marketing**
+- **Big Data & AI Paris 2023**
 
-    - *Description:* Un sommet explorant comment l’IA générative peut transformer le marketing et la création de contenu. Prévu les 28 et 29 février 2023 à Londres. Les experts et praticiens de l’IA générative, notamment Mistral AI avec son modèle de langage génératif Mistral 7B, seront présents.
-
-3. **SuperIA 2023**
-
-    - *Description:* Un sommet majeur pour les professionnels de l’IA en Asie. Programmé les 28 et 29 février 2023 à Singapour, il proposera des conférences, ateliers, démonstrations et rencontres avec les leaders de l’IA dans la région.
-
-4. **Sommet de l’Innovation Autonome 2023**
-
-    - *Description:* Ce sommet présentera les avancées en IA autonome, capable d’apprendre et d’agir sans supervision humaine. En ligne les 6 et 7 décembre 2023, il explorera les révolutions potentielles de l’IA autonome dans des domaines comme la mobilité, la santé, la sécurité et l’éducation.
+    - *Description:* Rendez-vous incontournable des professionnels du Big Data et de l’IA en France. Plus de 20 000 visiteurs, 350 exposants, 300 conférences et 250 ateliers sont au programme. Prévu les 6 et 7 décembre 2023 à Paris Porte de Versailles.
 
 
 
