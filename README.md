@@ -17,9 +17,17 @@ Cette section explore différents aspects de l'IA dans des domaines variés.
 
 [Article](https://www.boursorama.com/actualite-economique/actualites/les-regulateurs-americains-ajoutent-l-intelligence-artificielle-aux-risques-potentiels-pour-le-systeme-financier-b6c8a6e0db4ffbf58c2213d29dd630aa)
 
-<summary><strong>Résumé</strong></summary>
+<summary><strong>La stratégie nationale pour l'intelligence artificielle en France a été lancée en 2018 et se déploie en deux phases jusqu'en 2025. Cette initiative vise à positionner la France en tant que leader mondial dans le domaine de l'IA. La première phase, de 2018 à 2022, a concentré ses efforts sur le renforcement des capacités de recherche, soutenant la création d'instituts, de chaires d'excellence et d'investissements dans les infrastructures de calcul.
 
-Le Conseil de surveillance de la stabilité financière américain a mis en garde contre les risques potentiels de l'intelligence artificielle (IA) dans le système financier. Bien que l'IA puisse stimuler l'innovation et l'efficacité des entreprises financières, sa rapide évolution nécessite une supervision rigoureuse pour éviter les risques, notamment en matière de cybersécurité, de modèle financier, et de protection des données. Les outils d'IA complexes et basés sur des données externes peuvent poser des défis en termes de transparence et de contrôle. Les régulateurs examinent de près l'utilisation de l'IA par les entreprises, et des mesures sont prises pour atténuer ces risques, soulignant également la nécessité de surveiller les dépôts bancaires non assurés.
+Cette première phase a abouti à des résultats significatifs, avec un grand nombre de laboratoires et de startups spécialisées en IA en France, générant des emplois directs et indirects. La seconde phase, lancée en 2021, se concentre sur la formation de talents et l'accélération du potentiel de recherche et développement. Avec un budget total de 2,22 milliards d'euros sur cinq ans, cette phase vise à diffuser l'IA dans l'économie et à soutenir des domaines prioritaires tels que l'IA embarquée, l'IA de confiance, l'IA au service de la transition écologique, ainsi que l'IA générative et les modèles de langage géants.
+
+
+
+
+
+</strong></summary>
+
+
 </details>
 
 <details>
