@@ -85,15 +85,46 @@ L'article aborde la volonté d'Emmanuel Macron de faire progresser la France dan
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F0750647w.index-education.net%2Fpronote%2FFichiersExternes%2Fd3a8e0339e46d1436e787b713b3f446df54d88e23c0ad18ef63e82edc1ef3a876ab2978b24aabd5c8824fed8cecefe3825e486c9a49ab8d80114d53ffd182b4a34b6c669dd9c295dedce3afb24ac210f%2FIA%2520revolution%2520cybersecurite.docx%3FSession%3D428852&wdOrigin=BROWSELINK
 
 
-###Startups Françaises Innovantes dans le Domaine de l'IA
+### Startups Françaises Innovantes dans le Domaine de l'IA
 
-Lumio Médical : cette start-up utilise l’IA pour vérifier les prescriptions médicales et éviter les accidents médicamenteux, qui causent environ 30 000 décès par an1.
-Nam.R : cette start-up agrège de nombreuses bases de données publiques et privées pour créer des plateformes numériques d’aide à la décision dans les domaines de la ville connectée et du bâtiment. Elle se distingue par son engagement pour la transition écologique1.
-Praditus : cette start-up révolutionne l’analyse des compétences en interne, en utilisant l’IA et les neurosciences. Elle permet d’accélérer les processus d’évaluation et de mieux accompagner les talents1.
-BlueCargo : cette start-up optimise les opérations dans les ports, en utilisant des algorithmes prédictifs. Elle vient disrupter un domaine autrefois dominé par les théories japonaises1.
-Hyperlex.ai : cette start-up simplifie l’aspect juridique pour les entreprises, en utilisant l’IA pour créer, négocier, valider et analyser les contrats de façon automatisée1.
-Iktos : cette start-up permet aux pharmaciens de modéliser de nouvelles molécules grâce à l’IA, pour accélérer la compréhension et le traitement des pathologies comme le cancer ou les maladies rares1.
-Algolia : cette start-up est devenue la référence du “search as a service”, en développant un moteur de recherche qui permet aux utilisateurs d’un site ou d’une appli de trouver facilement et rapidement le produit ou l’information qu’ils recherchent. Elle a installé son siège social à San Francisco, mais son plus grand bureau est toujours à Paris2.
-Sophia Genetics : cette start-up propose une plateforme de référence pour les hôpitaux, qui leur permet de détecter les mutations de l’ADN de manière précise et rapide pour un meilleur diagnostic des patients. Elle vise à favoriser les traitements personnalisés pour les maladies comme le cancer ou les maladies rares2.
-Mistral AI : cette start-up, forte d’une valorisation de 240 millions d’euros, a mis en ligne Mistral 7B, son premier modèle de langage génératif open source. Non seulement gratuit et sans modération, Mistral 7B se distingue également par une efficacité et une rapidité qui le positionnent face à des géants tels qu’OpenAI, Microsoft, Google et Meta3.
-Criteo : cette start-up est l’un des leaders mondiaux du marketing à la performance, en utilisant l’IA pour personnaliser les publicités en ligne. Elle compte plus de 2 000 employés dans 31 bureaux à travers le monde4.
+1. **Lumio Médical**
+
+    - *Description:* Utilise l’IA pour vérifier les prescriptions médicales et éviter les accidents médicamenteux.
+
+2. **Nam.R**
+
+    - *Description:* Agrège de nombreuses bases de données pour créer des plateformes numériques d’aide à la décision dans les domaines de la ville connectée et du bâtiment.
+
+3. **Praditus**
+
+    - *Description:* Révolutionne l’analyse des compétences en interne en utilisant l’IA et les neurosciences.
+
+4. **BlueCargo**
+
+    - *Description:* Optimise les opérations dans les ports en utilisant des algorithmes prédictifs.
+
+5. **Hyperlex.ai**
+
+    - *Description:* Simplifie l’aspect juridique pour les entreprises en automatisant la création, la négociation, la validation et l'analyse des contrats grâce à l’IA.
+
+6. **Iktos**
+
+    - *Description:* Permet aux pharmaciens de modéliser de nouvelles molécules grâce à l’IA pour accélérer la compréhension et le traitement des pathologies comme le cancer ou les maladies rares.
+
+7. **Algolia**
+
+    - *Description:* Développe un moteur de recherche pour aider les utilisateurs à trouver facilement et rapidement le produit ou l’information recherchés.
+
+8. **Sophia Genetics**
+
+    - *Description:* Propose une plateforme pour les hôpitaux afin de détecter les mutations de l’ADN pour un meilleur diagnostic des patients et favoriser les traitements personnalisés.
+
+9. **Mistral AI**
+
+    - *Description:* A mis en ligne Mistral 7B, un modèle de langage génératif open source pour une utilisation gratuite et rapide.
+
+10. **Criteo**
+
+    - *Description:* Leader mondial du marketing à la performance, utilise l’IA pour personnaliser les publicités en ligne.
+
+
